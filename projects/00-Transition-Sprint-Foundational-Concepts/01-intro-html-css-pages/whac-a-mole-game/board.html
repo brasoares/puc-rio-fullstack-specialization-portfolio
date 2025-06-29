@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Board</title>
+  </head>
+  <body>
+    <header>
+      <div class="previousPage">
+        <a href="rules.html" class="circle">
+          <img src="images/arrow-up.png" alt="Arrow Up" class="arrow">
+        </a>
+      </div>
+    </header>
+    <section class="board" id="board">
+      <div class="grass" id="idGrass">
+        <img src="images/hole.png" alt="empty hole" class="hole" id="hole0">
+        <img src="images/hole.png" alt="empty hole" class="hole" id="hole1">
+        <img src="images/hole.png" alt="empty hole" class="hole" id="hole2">
+        <img src="images/hole.png" alt="empty hole" class="hole" id="hole3">
+        <img src="images/hole.png" alt="empty hole" class="hole" id="hole4">
+      </div>
+      <div class="points">
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2">Score</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Hits:</td>
+              <td class="score" id="hits">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+              </td>
+            </tr>
+            <tr>
+              <td>Lost:</td>
+              <td class="score" id="lost">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+              </td>
+            </tr>
+            <tr>
+              <td>Errors:</td>
+              <td class="score" id="errors">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+              </td>
+            </tr>
+            <tr>
+              <td>Total</td>
+              <td class="score" id="total">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+                <img src="images/caractere_0.gif" alt="0">
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <button id="start" class="btn btn-light">Start</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+    <footer>
+      <div class="nextPage">
+        <a href="scores.html" class="circle">
+          <img src="images/arrow-down.png" alt="Arrow Down" class="arrow">
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>
