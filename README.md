@@ -71,26 +71,33 @@ This specialization provides deep dives into a wide array of tools and principle
 
 *(Projects will be added and updated here as they are completed and become ready for showcasing.)*
 
-### 1. Foundational Web Application (Sprint of Transition / Module I)
+### 0. Foundational Web Application (Sprint of Transition / Module I)
 * **Description:** A project focusing on the foundational concepts of web page construction, Python programming, and basic database interactions. This MVP consolidates core skills essential for full-stack development.
 * **Key Technologies:** HTML, CSS, JavaScript, Python, SQL (SQLite or similar), fundamental database commands.
 * **Core Features:** Dynamic web content, basic data manipulation, modular Python scripts, responsive design elements.
-* **Project Link:** [Link to the project's folder, `projects/sprint1-foundational-web-app/README.md`]
-* **Live Demo/API Endpoint:** [Link to live demo or API documentation/endpoint deployed. **Once done!**]
+* **Project Link:** [Link to project folder](projects/sprint1-foundational-web-app/README.md)
+* **Live Demo/API Endpoint:** [Link to live demo/API endpoint **(Once deployed)**]
 
-### 2. Advanced Front-end Application (Module II)
-* **Description:** A significant project demonstrating advanced front-end development capabilities, including complex user interfaces and interactions. This MVP highlights expertise in modern client-side frameworks and mobile responsiveness.
-* **Key Technologies:** A modern JavaScript framework, advanced CSS, API consumption, potentially mobile-first design.
-* **Core Features:** Rich interactive UI, state management, robust form handling, cross-device compatibility.
-* **Project Link:** [Link to the project's folder, `projects/sprint2-advanced-frontend-app/README.md`]
-* **Live Demo:** [Link to live demo once deployed]
+### 1. Full Stack Basic MVP (Module I / Sprint 01)
+* **Description:** This MVP represents a fundamental full-stack application, showcasing the integration of front-end, back-end, and database development. It demonstrates core competencies in software design and implementation.
+* **Key Technologies:** Python, a backend framework, JavaScript, a modern frontend framework, SQL/NoSQL database.
+* **Core Features:** User authentication, CRUD operations, data persistence, basic API design.
+* **Project Link:** [Link to project folder](projects/sprint1-basic-fullstack-mvp/README.md)
+* **Live Demo/API Endpoint:** [Link to live demo/API endpoint **(Once deployed)**]
 
-### 3. Cloud-Native Microservices Backend (Module III)
+### 2. Advanced Front-end MVP (Module II / Sprint 02)
+* **Description:** This project focuses on building a sophisticated and responsive front-end application, emphasizing advanced UI/UX principles and mobile compatibility.
+* **Key Technologies:** A modern JavaScript framework, advanced CSS/styling, mobile development frameworks/techniques, API consumption.
+* **Core Features:** Complex interactive user interfaces, responsive design across devices, state management, seamless user experience.
+* **Project Link:** [Link to project folder](projects/sprint2-advanced-frontend-mvp/README.md)
+* **Live Demo/API Endpoint:** [Link to live demo **(Once deployed)**]
+
+### 3. Cloud-Native Microservices Backend MVP (Module III / Sprint 03)
 * **Description:** An impactful project illustrating the development of scalable backend systems using microservices architecture, with a focus on cloud deployment and DevOps principles. This MVP showcases expertise in distributed systems.
 * **Key Technologies:** Python, a backend framework, Docker, a cloud platform, SQL/NoSQL databases.
 * **Core Features:** Inter-service communication, API design, robust data handling, containerization, cloud deployment strategies.
-* **Project Link:** [Link to the project's folder, `projects/sprint3-cloud-microservices/README.md`]
-* **Live Demo/API Endpoint:** [Link to live API endpoint / Demo once deployed]
+* **Project Link:** [Link to project folder](projects/sprint3-cloud-microservices/README.md)
+* **Live Demo/API Endpoint:** [Link to live demo/API endpoint **(Once deployed)**]
 
 *(As I complete each module, I'll update the "Key Technologies" with specific frameworks used and link to my actual project folders and demos.)*
 
