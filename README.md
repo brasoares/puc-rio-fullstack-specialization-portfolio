@@ -106,7 +106,7 @@ This specialization provides deep dives into a wide array of tools and principle
 Feel free to connect with me for professional opportunities or collaborations!
 
 * **LinkedIn:** [Henoc Freire](https://www.linkedin.com/in/brasoares/)
-* **Email:** [henocsoares@hotmail.com.br](mailto:henocfreire@outlook.com)
+* **Email:** [henocfreire@outlook.com](mailto:henocfreire@outlook.com)
 * **GitHub:** [brasoares GitHub Profile](https://github.com/brasoares)
 
 ---
